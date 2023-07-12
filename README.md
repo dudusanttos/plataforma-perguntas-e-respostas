@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">GuiaPerguntas</h1>
-<p align="center">Plataforma de perguntas e respostas. </p>
+<p align="center">Plataforma de perguntas e respostas </p>
 
 
 
