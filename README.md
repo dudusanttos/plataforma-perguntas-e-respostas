@@ -1,18 +1,14 @@
 
 
-<p align="center">
-  <img src="./public/img/guia.png" width="140px" />
-</p>
-
 <h1 align="center">GuiaPerguntas</h1>
-<p align="center">Plataforma de perguntas e respostas </p>
+<p align="center">Q&A Platform</p>
 
 
 
-# Funcionalidades
-- Fazer perguntas ✔️
-- Responder perguntas ✔️
-- Salvamento em banco de dados✔️
+# Features
+- Ask questions✔️
+- Answer questions ✔️
+- Saving to databases✔️
 <br>
 <p align="center">
 <img src="./screenshots/screenshot1.png" />
@@ -22,13 +18,13 @@
 </p>
 
 
-# Instalação 
+# Installation 
 
-- #### 🚀 git clone https://github.com/dudusanttos/plataforma-perguntas-e-respostas.git
+- #### 🚀 git clone https://github.com/duduxqx/platform-questions.git
 - #### 🚀 npm install
 - #### 🚀 nodemon index.js
 
-## Mostre seu apoio!
+## Show your support!
 
-Ajude o projeto com uma ⭐️ 
+Help the project with a ⭐️ 
 
